@@ -1,0 +1,314 @@
+"query:Articles:unread = \"yes\" and tags !# \"Youtube\" and tags !#\"reddit\"
+#"query:Reddit:unread = \"yes\" and tags #\"reddit\"
+"query:Videos:unread =\"yes\" and tags # \"Youtube\""
+"query:Linux Videos:unread =\"yes\" and tags # \"Linux-Video\""
+https://interestingengineering.com/feed  "Education"
+https://www.sciencenewsforstudents.org/feed/  "Education"
+https://feeds.feedburner.com/TheHackersNews  "Tech"
+https://9to5linux.com/feed "Tech"
+https://www.linux.com/feed "Tech"
+https://lwn.net/headlines/newrss "Tech"
+https://hackaday.com/blog/feed/ "Tech"
+https://www.lifehack.org/feed   "Tech"
+https://news.ycombinator.com/rss "Tech"
+https://feeds2.feedburner.com/TheArtOfManliness
+https://www.theverge.com/rss/index.xml
+https://itsfoss.com/feed/  "Tech-Video"
+http://rss.slashdot.org/Slashdot/slashdotMain
+https://bigthink.com/feed/all
+https://www.wired.com/feed/rss
+https://www.wired.com/feed/category/science/latest/rss  "Education"
+https://www.wired.com/feed/category/security/latest/rss
+https://www.wired.com/feed/tag/wired-guide/latest/rss
+https://www.wired.com/feed/category/culture/latest/rss
+
+
+https://www.youtube.com/feeds/videos.xml?user=gotbletu "Linux-Video" "Youtube"
+https://www.youtube.com/feeds/videos.xml?user=Jakejw93 "Linux-Video" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "Linux-Video" "Youtube" #DistroTube
+https://www.youtube.com/feeds/videos.xml?user=sneekylinux "Linux-Video" "Youtube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg "Youtube" "Education-Vid" #Joe Scott 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-3SbfTPJsL8fJAPKiVqBLg "Youtube" "Education-Vid" #Deep Look 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-6IBBRvajxnXCRL4BQf0IQ "Youtube" "Education-Vid" "Documentary" #Wildlife Films 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-7nELDbJEPF3muAzSeT74g "Youtube" "Entertainlent-Vid" #Disrupt 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-QtZBV4BXx1yobntL2yXWg "Youtube" #Sabry 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-tLyAaPbRZiYrOJxAGB7dQ "Youtube" "Entertainlent-Vid" #Pursuit of Wonder 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-vzYTutOl2ZFq6KcT9F0HA "Youtube" "Entertainlent-Vid" #FakeLifeLore 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC04KsGq3npibMCE9Td3mVDg "Youtube" "Entertainlent-Vid" #Cheddar 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC06E4Y_-ybJgBUMtXx8uNNw "Youtube" "Entertainlent-Vid" "Education-Vid" #TheBackyardScientist 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0GnafipndAvpwSrrp7z0gw "Youtube" "Entertainlent-Vid" #Nerd Soup 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0QHWhjbe5fGJEPz3sVb6nw "Youtube" "Entertainlent-Vid" "Education-Vid" #Doctor Mike 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0cd_-e49hZpWLH3UIwoWRA "Youtube" "Entertainlent-Vid" "Education-Vid" #Professor Dave Explains 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0e3QhIYukixgh5VVpKHH9Q "Youtube" "Entertainlent-Vid" "Tech-Video" #Code Bullet 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0vBXGSyV14uvJ4hECDOl0Q "Youtube" "Tech-Video" #Techquickie 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC176GAQozKKjhz62H8u9vQQ "Youtube" "Education-Vid" #Real Science 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1DTYW241WD64ah5BFWn4JA "Youtube" "Entertainlent-Vid" #Sam O'Nella Academy 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2I6Et1JkidnnbWgJFiMeHA "Youtube" "Entertainlent-Vid" #Steve1989MREInfo 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg "Youtube" "Tech-Video" #ForrestKnight 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "Youtube" "Linux-Video" #Luke Smith 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2gv4MSAlvzjwZ8xXQYtfiQ "Youtube" "Entertainlent-Vid" #SumitoMedia 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3jdnIP2u5hCJpVZ-TuDrCg "Youtube" "Entertainlent-Vid" #Whang! 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3s0BtrBJpwNDaflRSoiieQ "Youtube" "Tech-Video" #Hak5 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3sznuotAs2ohg_U__Jzj_Q "Youtube" "Entertainlent-Vid" #The Film Theorists 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3yaWWA9FF9OBog5U9ml68A "Youtube" "Tech-Video" #SavvyNik 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC44hIHGE2aJmlnBj8WdtTww "Youtube" "Entertainlent-Vid" #رحاليستا Rahalista 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4GyLVT1yxXfHun04XnB7pQ "Youtube" "Tech-Video" #cryoCode 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4P1wf7gNZ1A19xNw863KwQ "Youtube" "Entertainlent-Vid" #PaymoneyWubby 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A "Youtube" "Tech-Video" #ColdFusion 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4USoIAL9qcsx5nCZV_QRnA "Youtube" "Entertainlent-Vid" #iDubbbzTV 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4kRorAXuIkyIX6vwXKaLWg "Youtube" "Education-Vid" #المخبر الاقتصادي - Mokhbir Eqtisadi 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC510QYlOlKNyhy_zdQxnGYw "Youtube" "Education-Vid" #Simple History 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5I2hjZYiW9gZPVkvzM8_Cw "Youtube" "Tech-Video" #Techmoan 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw "Youtube" "Linux-Video" #The Linux Experiment 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5_HIscbiDZM0dMX-nCksuA "Youtube" "Education-Vid" #Casual Navigation 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6-ymYjG0SU0jUWnWh9ZzEQ "Youtube" "Entertainlent-Vid" #Wisecrack 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA "Youtube" "Education-Vid" #SmarterEveryDay 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC64UiPJwM_e9AqAd7RiD7JA "Youtube" "Education-Vid" #Today I Found Out 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC67gfx2Fg7K2NSHqoENVgwA "Youtube" "Entertainlent-Vid" #Tom Stanton 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6VgH6kTewYvKcdwGVbjwPQ "Youtube" "Entertainlent-Vid" #Allaqta 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6mIxFTvXkWQVEHPsEdflzQ "Youtube" "Education-Vid" #GreatScott! 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA "Youtube" "Education-Vid" #Vsauce 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7BhHN8NyMMru2RUygnDXSg "Youtube" "Education-Vid" "Entertainlent-Vid" #Sciencephile the AI 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7XvuBMRYoBdjKPIBOxt6XQ "Youtube" "Education-Vid" #Lesics français 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "Youtube" "Linux-Video" "Tech-Video" #Mental Outlaw 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7dHBh9QmYF1L0TOeGIzZgw "Youtube" "Entertainlent-Vid" #Lazy Masquerade 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7o-UFkoAPCoKxpKOfrs4zQ "Youtube" "Education-Vid" #UsefulCharts 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7qPftDWPw9XuExpSgfkmJQ "Youtube" "Entertainlent-Vid" "Tech-Video" #Nostalgia Nerd 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8XjmAEDVZSCQjI150cb4QA "Youtube" "Education-Vid" #Knowing Better 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8mnXeOlR9hC2w8aYqY9WNQ "Youtube" "Music" #Loudwire 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA "Youtube" "Entertainlent-Vid" "Tech-Video" #Computerphile 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9PIn6-XuRKZ5HmYeu46AIw "Youtube" "Entertainlent-Vid" #Barely Sociable 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9RM-iSvTu1uPJb8X5yp3EQ "Youtube" "Education-Vid" #Wendover Productions 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9WQRw8jgJhag-vkDNTDMRg "Youtube" "Entertainlent-Vid" #Coffee Break 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9_BKfayJfXO5fZWLi-GVrg "Youtube" "Documentary" #Free Documentary - Shorts 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9uD-W5zQHQuAVT2GdcLCvg "Youtube" "Education-Vid" #Science Insider 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAL3JXZSzSm8AlZyD3nQdBA "Youtube" "Entertainlent-Vid" #Primitive Technology 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAiiOTio8Yu69c3XnR7nQBQ "Youtube" "Tech-Video" #System Crafters 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug "Youtube" "Entertainlent-Vid" "Education-Vid" #TED 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCB6PV0cvJpzlcXRG7nz6PpQ "Youtube" "Tech-Video" "Entertainlent-Vid" #Motherboard 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A "Youtube" "Entertainlent-Vid" #Tom Scott 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCC552Sd-3nyi_tk2BudLUzA "Youtube" "Education-Vid" "Entertainlent-Vid" #AsapSCIENCE 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCC5Sx7QvnpdUXInyWO1Db0Q "Youtube" "Music" #Epic Symphonic Rock 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCC9mlCpyisiIpp9YA9xV-QA "Youtube" "Entertainlent-Vid" #Vilebrequin 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCrnCItH17W-64FDzjwOi5w "Youtube" "Entertainlent-Vid" #The Science Elf 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCvx8oxOIcpz8gr7WcOh6jA "Youtube" "Music" #Fethi Nadjem 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDt9sBJp3Mne9_8xmb_XoWQ "Youtube" "Education-Vid" #speedkar99 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEIwxahdLz7bap-VDs9h35A "Youtube" "Entertainlent-Vid" #Steve Mould 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCErSSa3CaP_GJxmFpdjG9Jw "Youtube" "Entertainlent-Vid" #Lessons from the Screenplay 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFNrd622HDf_zQdzdPx1fvA "Youtube" "Music" #MESURES PRODUCTION 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFQMnBA3CS502aghlcr0_aw "Youtube" "Entertainlent-Vid" #Coffeezilla 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA "Youtube" "Education-Vid" #NileRed 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGI000V6ZIAQf97MNybAaLQ "Youtube" "Education-Vid" #Dom Burgess 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGeNnbrPXNJb5wfUfdjaWag "Youtube" "Entertainlent-Vid" #Bohemian Kitchen 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCH2rTXSDD5rJGPs10xERXrA "Youtube" "Education-Vid" #Physics with Professor Matt Anderson 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCH4BNI0-FOK2dMXoFtViWHw "Youtube" "Education-Vid" #Be Smart 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHC4G4X-OR5WkY-IquRGa3Q "Youtube" "Entertainlent-Vid" #Tom Scott plus 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHCph-_jLba_9atyCZJPLQQ "Youtube" "Entertainlent-Vid" #How It Should Have Ended 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHiwtz2tCEfS17N9A-WoSSw "Youtube" "Entertainlent-Vid" #Pop Culture Detective 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA "Youtube" "Education-Vid" "Entertainlent-Vid" #Veritasium 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHoRvL_JN1_pqRmMlgfUVsQ "Youtube" "Entertainlent-Vid" #Chill Fuel 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCI9DUIgtRGHNH_HmSTcfUbA "Youtube" "Entertainlent-Vid" #The Closer Look 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCIJ0lLcABPdYGp7pRMGccAQ "Youtube" "Entertainlent-Vid" #People Are Awesome 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCIUUmjFnVeVSAi8HoYL-tzQ "Youtube" "Entertainlent-Vid" #JoBlo Originals 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJ-4K4911cLZMNEZLnxnpIg "Youtube" "Entertainlent-Vid" #Lee Hardcastle 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA "Youtube" "Education-Vid" #Matt D'Avella 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJEyqfr-DVfKd7aRqPtyGEA "Youtube" "Entertainlent-Vid" "Documentary" #Free Documentary - Paranormal 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJHA_jMfCvEnv-3kRjTCQXw "Youtube" "Entertainlent-Vid" #Babish Culinary Universe 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJQJ4GjTiq5lmn8czf8oo0Q "Youtube" "Tech-Video" #PowerCert Animated Videos 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJV8nuA85c7-yT_31pbUnEQ "Youtube" "Education-Vid" #NutshellEdu 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJYVW4HVrMWpUvvsjPQc8-Q "Youtube" "Tech-Video" "Linux-Video" #DorianDotSlash 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJgfj0DxWN0k1UuB5wiDf8A "Youtube" "Entertainlent-Vid" #Khoubai 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCK9X9JACEsonjbqaewUtICA "Youtube" "Music" #Alice In Chains 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCL6JmiMXKoXS6bpP1D3bk8g "Youtube" "Entertainlent-Vid" #Donut Media 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLOwKVD0bYHxaDZxXkK4piw "Youtube" "Entertainlent-Vid" #Kento Bento 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLXo7UDZvByw2ixzpQCufnA "Youtube" "Entertainlent-Vid" "Entertainlent-Vid" #Vox 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMOqf8ab-42UUQIdVoKwjlQ "Youtube" "Education-Vid" #Practical Engineering 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMV3aTOwUtG5vwfH9_rzb2w "Youtube" "Education-Vid" "Documentary" #Spark 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMX31RavkfUHJvw03RbUZnA "Youtube" "Entertainlent-Vid" #Nick Crowley 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMpkigo5fBNREqg-n8tBoYw "Youtube" "Entertainlent-Vid" #Mohamed Djamel Taleb 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCN5xN8gIljvWYnsj06V8WbQ "Youtube" "Entertainlent-Vid" #Pyrocynical 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNEs6RmBQwQrr39RmDCDa8A "Youtube" "Entertainlent-Vid" #Cadaber 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNIuvl7V8zACPpTmmNIqP2A "Youtube" "Entertainlent-Vid" #OverSimplified 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCO-NZoGEzCE5klWUCZVDuWQ "Youtube" "Education-Vid" #Foreign Chronicles 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOqpkmWmdb8peUHw3_3DNSg "Youtube" "Entertainlent-Vid" #Karim Chahiani 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCP5tjEmvPItGyLhmjdwP7Ww "Youtube" "Entertainlent-Vid" "Education-Vid" #RealLifeLore 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPMG2HC0gOOCZU7VveV9fug "Youtube" "Education-Vid" #Heliosphere 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPttkThNvrUs-Dx8FVdiOwA "Youtube" "Entertainlent-Vid" #BLAKE WEBBER 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCPzFLpOblZEaIx2lpym1l1A "Youtube" "Entertainlent-Vid" #Alex 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQPalfEYxVLs8nEB4LutApQ "Youtube" "Entertainlent-Vid" #ثمانية / thmanyah 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ "Youtube" "Tech-Video" #ThioJoe 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQtW2oz8ec8pHjjxawujNjg "Youtube" "Documentary" #Free Documentary - Nature 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQtzPvhc-8PQrmxcZUVdI7Q "Youtube" "Entertainlent-Vid" "Education-Vid" "Documentary" #PARAGRAPHIC 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCR1D15p_vdP3HkrH8wgjQRw "Youtube" "Entertainlent-Vid" #Internet Historian 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg "Youtube" "Education-Vid" #Real Engineering 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRAAdF42hZcTHAorbbDuivw "Youtube" "Documentary" #Wonder 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRbOPaGDB_xOQkVM8Rnn62Q "Youtube" "Entertainlent-Vid" #I Hate Everything 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRcgy6GzDeccI7dkbbBna3Q "Youtube" "Entertainlent-Vid" "Documentary" #LEMMiNO 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRjSO-juFtngAeJGJRMdIZw "Youtube" "Tech-Video" #Gary Explains 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRvWwMPr2SmSG7rXXzeEUdA "Youtube" "Entertainlent-Vid" "Documentary" #SideNote 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCS97tchJDq17Qms3cux8wcA "Youtube" "Linux-Video" "Tech-Video" #ChrisAtMachine 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSbyncU597LMwb3HhnAI_4w "Youtube" "Entertainlent-Vid" #Epic Gardening 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSrPuHtKbst7Zy8pyWn_3Cg "Youtube" "Entertainlent-Vid" #What's Inside? 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCTWKe1zATFV6d0o6oLS9sgw "Youtube" "Entertainlent-Vid" "Documentary" #Extremities 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUkqkdy-oH2_PyNFvs43Fzg "Youtube" "Entertainlent-Vid" #SEPIA 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUzQJ3JBuQ9w-po4TXRJHiA "Youtube" "Entertainlent-Vid" "Tech-Video" #jdh 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVRJZKyRSXLNvjq8EzKOq7g "Youtube" "Entertainlent-Vid" "Music" #Flow officiel 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVVAnxQ2YMC_qlc7QfPA2YQ "Youtube" "Entertainlent-Vid" #AlmazanKitchen 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "Youtube" "Linux-Video" "Tech-Video" #DistroTube 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCW6MNdOsqv2E9AjQkv9we7A "Youtube" "Tech-Video" #PwnFunction 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWTFGPpNQ0Ms6afXhaWDiRw "Youtube" "Entertainlent-Vid" #Now You See It 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWXCrItCF6ZgXrdozUS-Idw "Youtube" "Entertainlent-Vid" #ExplosmEntertainment 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWr0mx597DnSGLFk1WfvSkQ "Youtube" "Tech-Video" #Kalle Hallden 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWv7vMbMWH4-V0ZXdmDpPBA "Youtube" "Tech-Video" #Programming with Mosh 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXAS_Ekkq0iFJ9dSUIkcAkw "Youtube" "Entertainlent-Vid" #The Efficient Engineer 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCX_WM2O-X96URC5n66G-hvw "Youtube" "Linux-Video" #EF - Linux Made Simple 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCX_t3BvnQtS5IHzto_y7tbw "Youtube" "Tech-Video" #Coreteks 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw "Youtube" "Tech-Video" #Linus Tech Tips 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYUQQgogVeQY8cMQamhHJcg "Youtube" "Entertainlent-Vid" #CinemaSins 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw "Youtube" "Tech-Video" #Rob Braxman Tech 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYsWPPZMhfI9EddYpPe6CYw "Youtube" "Documentary" #60 Second Docs 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZEvYxVEr0MMUG2ZCpG8bRA "Youtube" "Tech-Video" "Linux-Video" #Sir Sudo 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow "Youtube" "Entertainlent-Vid" #SciShow 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_cznB5YZZmvAmeq7Y3EriQ "Youtube" "Education-Vid" #Stated Clearly 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_q-UNDJeEBSHqKzAP_8x_A "Youtube" "Entertainlent-Vid" #EricTheCarGuy 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCa6xsp7d4s-NgpPUGc57ZGA "Youtube" "Entertainlent-Vid" #Fifth Gear 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCajXeitgFL-rb5-gXI-aG8Q "Youtube" "Documentary" "Entertainlent-Vid" #Great Big Story 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbBaIriGE6NW2xvgsT8m-lA "Youtube" "Tech-Video" #Jared McDonald 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbWcXB0PoqOsAvAdfzWMf0w "Youtube" "Entertainlent-Vid" #Fredrik Knudsen 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbiGcwDWZjz05njNPrJU7jA "Youtube" "Tech-Video" #ExplainingComputers 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbsfyGlrjrKQC0gbzK0-EiA "Youtube" "Entertainlent-Vid" #Jared Owen 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCc-N24Y5OA0gqbjBwe1ttfA "Youtube" "Documentary" "Education-Vid" #Weird History 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCchWU8ta6L-Dy3rGIxPINzw "Youtube" "Entertainlent-Vid" #ReignBot 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcoO-8J0EYQHGPFQqwmAzVQ "Youtube" "Entertainlent-Vid" #exurb2a 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcpONlgbqXAjyxsavqtauog "Youtube" "Music" #Ahmed Alshaiba 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCd4XwUn2Lure2NHHjukoCwA "Youtube" "Linux-Video" #Linux For Everyone 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdp4_l1vPmpN-gDbUwhaRUQ "Youtube" "Education-Vid" #Branch Education 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCe076uBvUGXWHxk_v0TqdJQ "Youtube" "Tech-Video" #Alex Lugo 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCe1Aj6VEO299Yq4WkXdoD3Q "Youtube" "Entertainlent-Vid" #Alexandre Chappel 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCe6eisvsctSPvBhmincn6kA "Youtube" "Entertainlent-Vid" #Joe HaTTab 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeiYXex_fwgYDonaTcSIk6w "Youtube" "Education-Vid" #MinuteEarth 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCes1EvRjcKU4sY_UEavndBw "Youtube" "Education-Vid" #ChrisFix 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCf0O2efB4K66UUaT7QJPVNA "Youtube" "Education-Vid" #Al Muqaddimah 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCf93fPKwotph47H3_KDcRyg "Youtube" "Linux-Video" #Kris Occhipinti 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfMJ2MchTSW2kWaT0kK94Yw "Youtube" "Entertainlent-Vid" #William Osman 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfp-lNJy4QkIGnaEE6NtDSg "Youtube" "Linux-Video" #Terminalforlife (LL) 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCftwRNsjfRo08xYE31tkiyw "Youtube" "Entertainlent-Vid" "Education-Vid" #WIRED 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCg4vDcovXPJTcTcYxQ9iCrw "Youtube" "Entertainlent-Vid" #wavywebsurf 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ "Youtube" "Tech-Video" "Linux-Video" #Chris Titus Tech 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgNg3vwj3xt7QOrcIDaHdFg "Youtube" "Education-Vid" #PolyMatter 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgRBRE1DUP2w7HTH9j_L4OQ "Youtube" "Education-Vid" #Medlife Crisis 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgREucssIfY9e0Iy3yhse8w "Youtube" "Linux-Video" #nixcasts 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgTNupxATBfWmfehv21ym-g "Youtube" "Tech-Video" #Null Byte 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCg_s1VNrLoV4cFsH9TKXnuw "Youtube" "Entertainlent-Vid" #Supercuts Delight 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgmI-uiLLAg--vDe7FFdekA "Youtube" "Entertainlent-Vid" #Slightly Sociable 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgyqtNWZmIxTx3b6OxTSALw "Youtube" "Tech-Video" #Android Authority 
+https://www.youtube.com/feeds/videos.xml?channel_id=UChBEbMKI1eCcejTtmI32UEw "Youtube" "Entertainlent-Vid" #Joshua Weissman 
+https://www.youtube.com/feeds/videos.xml?channel_id=UChS61KaO4a3qPZXh2Z5poSA "Youtube" "Entertainlent-Vid" "Film" #Real Delusional Pictures 
+https://www.youtube.com/feeds/videos.xml?channel_id=UChrYe70o7NmDioL02PRVWVg "Youtube" "Entertainlent-Vid" #MattKC 
+https://www.youtube.com/feeds/videos.xml?channel_id=UChz2g0uWjiqI_GROs-HUjxg "Youtube" "Entertainlent-Vid" "Film" #NitPix 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCiAq_SU0ED1C6vWFMnw8Ekg "Youtube" "Entertainlent-Vid" #The Food Ranger 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCiCPv2sV_D3FqMRzzUFA2Fg "Youtube" "Education-Vid" #Biography 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCijcd0GR0fkxCAZwkiuWqtQ "Youtube" "Education-Vid" "Documentary" #Free Documentary 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCilF_PTSRFFO2vsX392MuEg "Youtube" "Education-Vid" #MITK12Videos 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCimiUgDLbi6P17BdaCZpVbg "Youtube" "Entertainlent-Vid" #exurb1a 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjDn0r-Jxfmh-HR4id885yw "Youtube" "Education-Vid" #Thomas Schwenke 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w "Youtube" "Tech-Video" #TechHut 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjdgBls3uP-OzfzH3Yv2Eyg "Youtube" "Education-Vid" #AKIO TV 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjgpFI5dU-D1-kh9H1muoxQ "Youtube" "Entertainlent-Vid" #Hacksmith Industries 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q "Youtube" "Tech-Video" #The Hated One 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCk5a-lI_ipCOvaqyey2rpFw "Youtube" "Tech-Video" #Hardcoded 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkefXKtInZ9PLsoGRtml2FQ "Youtube" "Tech-Video" #Professor Messer 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkg_xpBf5gMSnBZx8uRG-yg "Youtube" "Tech-Video" #Framework Tech Media 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkyfHZ6bY2TjqbJhiH8Y2QQ "Youtube" "Entertainlent-Vid" #thebrainscoop 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA "Youtube" "Linux-Video" #Brodie Robertson 
+https://www.youtube.com/feeds/videos.xml?channel_id=UClnDI2sdehVm1zm_LmUHsjQ "Youtube" "Education-Vid" #Biographics 
+https://www.youtube.com/feeds/videos.xml?channel_id=UClqhvGmHcvWL9w3R48t9QXQ "Youtube" "Education-Vid" #Engineering Explained 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmanEj3A-aaD7-cQlVPl1Mg "Youtube" "Entertainlent-Vid" #Estranged Intellectual 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCn8zNIfYAQNdrFRrr8oibKw "Youtube" "Entertainlent-Vid" #VICE 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCngn7SVujlvskHRvRKc1cTw "Youtube" "Linux-Video" #BugsWriter 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoQNyGGSIl_ZbEDq-teZDWQ "Youtube" "Music" #ArtificialFear 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A "Youtube" "Education-Vid" #Numberphile 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpCSAcbqs-sjEVfk_hMfY9w "Youtube" "Education-Vid" #Zach Star 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpFFItkfZz1qz5PpHpqzYBw "Youtube" "Entertainlent-Vid" #Nexpo 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpJmBQ8iNHXeQ7jQWDyGe3A "Youtube" "Entertainlent-Vid" #Life Noggin 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpZ5qUqpW4hW4zdfuBxMSJA "Youtube" "Education-Vid" #Mental Floss 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCq2QwnKW79w4a55ZQqOBReg "Youtube" "Linux-Video" #Irishluck Linux 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqE4VLV8iBG8pifQG_LguUQ "Youtube" "Entertainlent-Vid" "Film" #A Matter of Film 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqZQJ4600a9wIfMPbYc60OQ "Youtube" "Education-Vid" #Lesics 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqlRE8sYdSeijg83yIDpq2w "Youtube" "Education-Vid" #عبدالله الشريف Abdullah ELshrif 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqmD_a5YIbB5Brt_V04zLRQ "Youtube" "Entertainlent-Vid" #RealLifeLore2 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqmugCqELzhIMNYnsjScXXw "Youtube" "Education-Vid" #Vsauce2 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqwxJts-6yF33rupyF_DCsA "Youtube" "Documentary" "Entertainlent-Vid" #Life Where I'm From 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCr3cBLTYmIK9kY0F_OdFWFQ "Youtube" "Entertainlent-Vid" #Casually Explained 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrUL8K81R4VBzm-KOYwrcxQ "Youtube" "Tech-Video" "Linux-Video" #Engineer Man 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCs5wAPodliO0oVxiTD8ruvg "Youtube" "Entertainlent-Vid" #Biaheza 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg "Youtube" "Tech-Video" #Techlore 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA "Youtube" "Tech-Video" #Fireship 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q "Youtube" "Education-Vid" #Kurzgesagt – In a Nutshell 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCseUQK4kC3x2x543nHtGpzw "Youtube" "Tech-Video" #Brian Will 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsgPO6cNV0wBG-Og3bUZoFA "Youtube" "Documentary" #Free Documentary - History 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg "Youtube" "Tech-Video" #Wolfgang's Channel 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA "Youtube" "Education-Vid" #TED-Ed 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtGG8ucQgEJPeUPhJZ4M4jA "Youtube" "Documentary" #Rare Earth 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtHaxi4GTYDpJgMSGy7AeSw "Youtube" "Entertainlent-Vid" #Michael Reeves 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtZO3K2p8mqFwiKWb9k7fXA "Youtube" "Tech-Video" #TechAltar 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCt_t6FwNsqr3WWoL6dFqG9w "Youtube" "Education-Vid" #BrainCraft 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCta1hFa38HLicXgkn4kMLhA "Youtube" "Entertainlent-Vid" #Djawed_vlog 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtxJFU9DgUhfr2J2bveCHkQ "Youtube" "Education-Vid" #Verge Science 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCuCkxoKLYO_EQ2GeFtbM_bw "Youtube" "Entertainlent-Vid" "Education-Vid" #Half as Interesting 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvK4bOhULCpmLabd2pDMtnA "Youtube" "Entertainlent-Vid" #Yes Theory 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwX3zPzHYYxU3qqbH3KVdVw "Youtube" "Entertainlent-Vid" #Ibn Hattuta Travels 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwiTOchWeKjrJZw7S1H__1g "Youtube" "Entertainlent-Vid" #Food Insider 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwmFOfFuvRPI112vR5DNnrA "Youtube" "Education-Vid" #Vsauce3 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwnKziETDbHJtx78nIkfYug "Youtube" "Education-Vid" #CaspianReport 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q "Youtube" "Tech-Video" #Technology Connections 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyUBW72KU30dfAYWLVNZO8Q "Youtube" "Tech-Video" #Stefan Mischook 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyuJ7UCj99gsAStjVLh3-bw "Youtube" "Entertainlent-Vid" #Hook 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCz1oFxMrgrQ82-276UCOU9w "Youtube" "Education-Vid" #Atlas Pro 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzWQYUVCpZqtN93H8RR44Qw "Youtube" "Documentary" "Education-Vid" #Seeker 
+
+#reddit
+#https://www.reddit.com/r/w3m/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/clistuff/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/linux/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/linux4noobs/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/linuxmasterrace/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/commandline/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/unixporn/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/UsabilityPorn/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/pkgoftheday/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/gnu/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/archlinux/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/linux_devices/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/UnixProTips/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/zsh/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/neovim/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/bash/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/vim_magic/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/vim/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/vimplugins/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/linuxprojects/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/ScriptSwap/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/usefulscripts/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/i3wm/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/opensource/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/coolgithubprojects/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/awk/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/sed/.rss "Linux-Subreddit" "reddit"
+#https://www.reddit.com/r/educationalgifs/.rss "reddit"
+#https://www.reddit.com/r/lifeprotips/.rss "reddit"
+#https://www.reddit.com/r/todayilearned/.rss "reddit"
+#https://www.reddit.com/r/dataisbeautiful/.rss "reddit"
+#https://www.reddit.com/r/astrophotography/.rss "reddit"
+#https://www.reddit.com/r/learnuselesstalents/.rss "reddit"
+#https://www.reddit.com/r/explainlikeimfive/.rss "reddit"
+#https://www.reddit.com/r/showerthoughts/.rss "reddit"
+#https://www.reddit.com/r/renewableenergy/.rss "reddit"
+#https://www.reddit.com/r/tifu/.rss "reddit"
+#https://www.reddit.com/r/nottheonion/.rss "reddit"
+#https://www.reddit.com/r/arduino/.rss "reddit"
+#https://www.reddit.com/r/arduinoprojects/.rss "reddit"
+#https://www.reddit.com/r/awweducational/.rss "reddit"
+#https://www.reddit.com/r/creepywikipedia/.rss "reddit"
+#https://www.reddit.com/r/everymanshouldknow/.rss "reddit"
+#https://www.reddit.com/r/piracy/.rss "reddit"

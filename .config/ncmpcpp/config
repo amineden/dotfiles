@@ -1,0 +1,27 @@
+#Directories 
+
+ncmpcpp_directory ="/home/amine/.config/ncmpcpp"
+lyrics_directory ="/home/amine/Music/lyrics"
+mpd_music_dir = "/home/amine/Music"
+
+#Visualizer Settings
+
+visualizer_data_source = "/home/amine/.config/mpd/mpd.fifo"
+visualizer_output_name = "my_fifo"
+visualizer_in_stereo = "yes"
+visualizer_type = "spectrum"
+visualizer_look = "+|"
+
+#MPD server 
+
+#mpd_host ="localhost"
+mpd_host ="127.0.0.16"
+mpd_port = "6660"
+
+#Other Settings
+
+allow_for_physical_item_deletion= yes
+user_interface = alternative
+follow_now_playing_lyrics = yes
+execute_on_song_change="/home/amine/.config/ncmpcpp/ncmpcpp-ueberzug/ncmpcpp_cover_art.sh"
+

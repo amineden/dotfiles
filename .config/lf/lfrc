@@ -1,0 +1,16 @@
+map <delete> trash
+cmd trash ${{
+    set -f
+    mv -- "$fx" ~/.trash
+}}
+map D delete
+map . set hidden!
+set previewer ~/.config/lf/preview
+set cleaner ~/.config/lf/cleaner
+cmd open $devour xdg-open "$f"
+cmd rcw   $mogrify -rotate 90 "$f"
+map <c-r> rcw
+cmd rccw  $mogrify -rotate -90 "$f"
+map <C-R> rccw
+cmd 180  $mogrify -rotate 180 $f
+cmd -180 $mogrify -rotate -180 $f

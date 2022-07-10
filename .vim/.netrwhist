@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/amine/.config/mdDris2/mpDris2.conf'
+let g:netrw_dirhist_9='/home/amine/.config/mpd'
+let g:netrw_dirhist_8='/home/amine/.config'
+let g:netrw_dirhist_7='/home/amine/.config/alacritty'
+let g:netrw_dirhist_6='/home/amine/school'
+let g:netrw_dirhist_5='/home/amine/.config/tuir'
+let g:netrw_dirhist_4='/home/amine/.config/mpv'
+let g:netrw_dirhist_3='/etc/modules-load.d'
+let g:netrw_dirhist_2='/etc/modprobe.d'
+let g:netrw_dirhist_1='/home/amine/.config/polybar'

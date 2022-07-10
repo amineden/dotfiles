@@ -1,0 +1,16 @@
+§ =============================================================
+§  Personal Information
+§ =============================================================
+
+SetMacro( 'AUTHOR',       'Amine Dendane' )
+SetMacro( 'EMAIL',        'amine.dendane@outlook.com' )
+SetMacro( 'LICENSE',      'GNU General Public License' )
+
+§ =============================================================
+§  Date and Time Format
+§ =============================================================
+
+§SetFormat( 'DATE', '%x' )
+§SetFormat( 'TIME', '%H:%M' )
+§SetFormat( 'YEAR', '%Y' )
+
