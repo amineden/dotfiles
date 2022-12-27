@@ -1,0 +1,52 @@
+#background_opacity: 0.5
+window:
+  opacity: 0.9
+# BEGIN ACE
+colors:
+  primary:
+    background: '#0F1418'
+    foreground: '#dbd9d2'
+  cursor:
+    text:       '#0F1418'
+    cursor:     '#dbd9d2'
+  normal:
+    black:      '#0F1418'
+    red:        '#606262'
+    green:      '#777F7F'
+    yellow:     '#8B615B'
+    blue:       '#8A867B'
+    magenta:    '#788385'
+    cyan:       '#A4A397'
+    white:      '#dbd9d2'
+  bright:
+    black:      '#999793'
+    red:        '#606262'
+    green:      '#777F7F'
+    yellow:     '#8B615B'
+    blue:       '#8A867B'
+    magenta:    '#788385'
+    cyan:       '#A4A397'
+    white:      '#dbd9d2'
+# END ACE
+font:
+  normal:
+    family: Fira Mono
+    style: Regular
+
+  bold:
+    family: Fira Mono
+    style: Bold
+
+  italic:
+    family: Fira Mono
+    style: Italic
+
+  bold_italic:
+    family: Fira Mono
+    style: Bold Italic
+
+  size: 13
+
+key_bindings:
+    - { key: Return,   mods: Control|Shift, action: SpawnNewInstance }
+

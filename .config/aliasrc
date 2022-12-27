@@ -1,0 +1,36 @@
+alias ls='ls --color=auto'
+alias ..='cd ..'
+alias ~='cd ~'
+alias stirling='cd ~/school/stirling'
+alias bld='cd ~/Documents/website && rm -rf dst/.files src/index.html && ssg src/ dst/ 'amine' 'https://''
+alias usb='udisksctl mount -b /dev/sdb1 && lf ~/devices'
+alias rtv='tuir'
+
+#Pacman
+alias S='sudo pacman -S --color always'
+alias Ss='pacman -Ss --color always'
+alias Sy='sudo pacman -Syy --color always'
+alias Su='sudo pacman -Su --color always'
+alias Syu='sudo pacman -Syyu --color always'
+alias R='sudo pacman -Rsn --color always'
+alias Q='pacman -Qe --color always'
+alias yay='yay --color always'
+
+#File Manipulation
+alias cp='rsync -r -h --ignore-existing --progress'
+alias rm='rm -iv'
+alias mv='mv -iv'
+alias mkdir='mkdir -p'
+alias lss='ls -goahF --group-directories-first --color=auto'
+
+#Other commands
+alias K='killall xcompmgr'
+alias redshift='redshift -l 36.395774253961854:6.61159005203188'
+alias lf='lfrun'
+alias zathura=' devour zathura'
+alias mpv='devour mpv'
+alias gf='gfortran'
+alias iptv='mpv --script-opts=iptv=1'
+alias cwp='feh $(cat ~/Pictures/Wallpapers/current)'
+alias dcwp='rm $(cat ~/Pictures/Wallpapers/current)'
+alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
