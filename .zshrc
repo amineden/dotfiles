@@ -38,7 +38,7 @@ bindkey -v
 source ~/.zsh/zsh-syntax-highlighting.zsh
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 export VISUAL=vim
-export BROWSER=chromium
+export BROWSER=librewolf
 export EDITOR="$VISUAL"
 export PATH=$HOME/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin
 export MPD_HOST=127.0.0.16
@@ -48,5 +48,4 @@ export TUIR_URLVIEWER="bin/urlhandler.sh %u"
 export RTV_BROWSER=chromium
 export TUIR_BROWSER=chromium
 export GDK_DPI_SCALE=1.5
-#export QT_AUTO_SCREEN_SCALE_FACTOR=0.5
 export QT_SCALE_FACTOR=1.5

@@ -1,0 +1,4 @@
+#!/bin/sh
+F=$(find ${HOME}/Pictures/Wallpapers -type f| sort -R | tail -n1)
+wal -qi $F &
+echo $F > ${HOME}/Pictures/Wallpapers/current &

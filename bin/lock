@@ -1,0 +1,6 @@
+#!/bin/bash
+#playerctl pause
+scrot -o /tmp/lock.png
+
+mogrify -colorspace gray -blur 05 /tmp/lock.png 
+i3lock -i /tmp/lock.png --nofork
