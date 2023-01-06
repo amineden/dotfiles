@@ -40,7 +40,7 @@ source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 export VISUAL=vim
 export BROWSER=librewolf
 export EDITOR="$VISUAL"
-export PATH=$HOME/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin
+export PATH=$HOME/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/home/amine/.local/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin
 export MPD_HOST=127.0.0.16
 export MPD_PORT=6660
 export RTV_URLVIEWER="bin/urlhandler.sh %u"
@@ -49,3 +49,5 @@ export RTV_BROWSER=chromium
 export TUIR_BROWSER=chromium
 export GDK_DPI_SCALE=1.5
 export QT_SCALE_FACTOR=1.5
+export OPENAI_API_KEY=$(cat ~/.openaiAPIkey)
+

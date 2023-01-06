@@ -1,7 +1,7 @@
 autocmd Filetype tex inoremap <C-@><C-@> <Esc>/<++><Enter>"_c4l
 autocmd Filetype tex inoremap ;f \frac{<++>}{<++>}<++><Esc>F_ciw
 autocmd Filetype tex inoremap ;int \int_{}^{<++>}<++>\:\marthm{d<++>}<++><Esc>F_lli
-autocmd Filetype tex inoremap ;pic \begin{figure}[H]<Return>\centering<Return>\includegraphics[width=9cm]{_}<Return>\caption{<++>}<Return>\end{figure}<Return><++><Esc>kkkf_ciw
+autocmd Filetype tex inoremap ;fig \begin{figure}[H]<Return>\centering<Return>\includegraphics[width=9cm]{_}<Return>\caption{<++>}<Return>\end{figure}<Return><++><Esc>kkkf_ciw
 autocmd Filetype tex inoremap ;_ \textsubscript{_}<++><Esc>F_ciw
 autocmd Filetype tex inoremap ;^ \textsuperscript{_}<++><Esc>F_ciw
 autocmd Filetype tex inoremap ;\ \[_\]<Esc>F_ciw
