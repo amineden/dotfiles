@@ -3,7 +3,6 @@
 #         USAGE: ./pandog.sh [source directory] [destination directory] [website name]
 #   DESCRIPTION: Static website generator, inspired by  https://github.com/fmash16/ssg5/blob/main/ssg5
 #  REQUIREMENTS: pandoc
-#        AUTHOR: Amine Dendane (), amine.dendane@outlook.com
 #       CREATED: 05/12/2022 02:13:07 PM
 #      REVISION:  ---
 #===============================================================================

@@ -8,7 +8,6 @@
 #   DESCRIPTION: gets a terminal friendly version of an link,adds estimated reading time and displays it using w3m
 #		 play youtube using mpv
 #
-#        AUTHOR: Amine Dendane (), amine.dendane@outlook.com
 #  ORGANIZATION: 
 #       CREATED: 04/28/2022 11:28:29 PM
 #      REVISION:  ---

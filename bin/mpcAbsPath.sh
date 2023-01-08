@@ -11,7 +11,6 @@
 #  REQUIREMENTS: ---
 #          BUGS: ---
 #         NOTES: ---
-#        AUTHOR: Amine Dendane (), aminedendane@gmail.com
 #  ORGANIZATION: 
 #       CREATED: 09/10/2021 02:31:42 PM
 #      REVISION:  ---
