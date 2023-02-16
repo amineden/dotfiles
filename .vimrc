@@ -1,16 +1,17 @@
-colorscheme monokai
-hi Normal guibg=NONE ctermbg=NONE
-hi LineNr guibg=NONE ctermbg=NONE
-"set listchars=tab:\|\ 
-"set list
-
+let tokyonight_transparent_background=1
+set clipboard=unnamedplus
+colorscheme tokyonight
+""hi Normal guibg=NONE ctermbg=NONE
+""hi LineNr guibg=NONE ctermbg=NONE
+set listchars=tab:\|\ 
+set list
+syntax on
 "generic settings
 set number
 set wrap
 set cursorline
 set noswapfile
 set smartindent
-syntax on 
 set smartcase
 set incsearch
 set pastetoggle=<F3>
@@ -37,7 +38,7 @@ call plug#end()
 " code snippets
 source $HOME/.vim/myCodeSnippets/latex.vim
 source $HOME/.vim/myCodeSnippets/groff.vim
-source $HOME/.vim/myCodeSnippets/c.vim
+""source $HOME/.vim/myCodeSnippets/c.vim
 
 " go to the next visual line, helpeful when texted is wrapped
 nnoremap <up> g<up>
@@ -54,6 +55,7 @@ inoremap g<down> <C-o><down>
 autocmd FileType tex :map <F4> :w <CR> :!clear && pdflatex "%"<CR>
 au BufRead,BufNewFile *.txt,*.tex set wrap linebreak nolist textwidth=0 wrapmargin=0
 " indent the current C file, compile it, and run it
-autocmd FileType c   :map <F4> :w <CR> :!clear && indent -kr -as -br -brf -brs % -o % && gcc  % -o %< -lm && ./%<<CR>
+autocmd FileType c   :map <F4> :w <CR> :!clear && gcc  % -o %< -lm && ./%<<CR>
+autocmd Filetype fortran :map <F4> :w <CR> :!clear && gfortran % -o%< && ./%<<CR>
 " automatically recompile LaTeX file when saving
-autocmd BufWritePost *.tex !pdflatex %
+autocmd BufWritePost *.tex !pdflatex --shell-escape %

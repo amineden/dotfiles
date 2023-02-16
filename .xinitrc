@@ -52,4 +52,5 @@ wal -R &
 picom -f &
 numlockx &
 nm-applet &
+xss-lock lock &
 exec i3

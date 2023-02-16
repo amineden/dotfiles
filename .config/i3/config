@@ -10,7 +10,7 @@ exec --no-startup-id ~/.config/polybar/launch.sh
 #gaps==========================================
 gaps inner 12
 for_window [class=".*"] border pixel 0
-smart_gaps on
+#smart_gaps on
 
 bindsym --release Print exec scrot -F "Pictures/Screenshots/%Y%m%d.png"
 #media keys====================================
@@ -36,6 +36,7 @@ bindsym $mod+Shift+s exec --no-startup-id spotify --force-device-scale-factor=1.
 bindsym $mod+Shift+minus exec --no-startup-id polybar
 bindsym $mod+Shift+equal exec --no-startup-id killall polybar
 bindsym $mod+Shift+k exec --no-startup-id keepassxc
+bindsym $mod+Shift+d exec --no-startup-id discord
 bindsym $mod+d exec "rofi -modi drun,run -show drun"
 #assign to workspace=================================
 assign [class="KeePassXC"]  7
