@@ -103,6 +103,7 @@ x-scheme-handler/magnet=transmission-gtk.desktop
 x-scheme-handler/spotify=spotify.desktop
 x-scheme-handler/terminal=Alacritty.desktop
 text/x-shellscript=vim.desktop
+text/plain=vim.desktop
 
 [Added Associations]
 image/x-canon-cr2=nufraw.desktop

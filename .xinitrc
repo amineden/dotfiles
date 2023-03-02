@@ -53,4 +53,5 @@ picom -f &
 numlockx &
 nm-applet &
 xss-lock lock &
+unclutter &
 exec i3

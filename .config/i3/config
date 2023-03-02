@@ -27,7 +27,7 @@ bindsym $mod+x kill
 bindsym $mod+Shift+x exec --no-startup-id lock
 #custom key bindings========================
 bindsym $mod+z exec --no-startup-id wall
-bindsym $mod+Shift+z exec --no-startup-id dcwp && wall
+bindsym $mod+Shift+z exec --no-startup-id alacritty -e "lf"
 bindsym $mod+Return  exec --no-startup-id alacritty
 bindsym $mod+Shift+f exec --no-startup-id librewolf
 bindsym $mod+Shift+t exec --no-startup-id thunderbird

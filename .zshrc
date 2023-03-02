@@ -37,6 +37,8 @@ bindkey -v
 # End of lines configured by zsh-newuser-install
 source ~/.zsh/zsh-syntax-highlighting.zsh
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /usr/share/fzf/key-bindings.zsh
+source /usr/share/fzf/completion.zsh
 export VISUAL=vim
 export BROWSER=librewolf
 export EDITOR="$VISUAL"
@@ -50,4 +52,6 @@ export TUIR_BROWSER=chromium
 export GDK_DPI_SCALE=1.5
 export QT_SCALE_FACTOR=1.5
 export OPENAI_API_KEY=$(cat ~/.openaiAPIkey)
+export FZF_DEFAULT_COMMAND='fd -L -t f --ignore-file=$HOME/.fdignore --color=never'
+export FZF_ALT_C_COMMAND='fd -L -t f --ignore-file=$HOME/.fdignore --color=never'
 
