@@ -42,6 +42,7 @@ bindsym $mod+d exec "rofi -modi drun,run -show drun"
 assign [class="KeePassXC"]  7
 for_window [class="Spotify"] move container to workspace $ws10
 for_window [class="Blueberry.py"]floating enable
+for_window [class="7zFM"]floating enable
 
 bindsym $mod+j focus left
 bindsym $mod+k focus down

@@ -73,7 +73,7 @@ image/x-tga=feh.desktop
 image/x-xbitmap=feh.desktop
 inode/directory=ranger.desktop
 text/html=librewolf.desktop
-text/*=vim.desktop
+text/x-script.python=vim.desktop
 video/mp2t=mpv.desktop
 video/mp4=mpv.desktop
 video/mpeg=mpv.desktop
@@ -104,6 +104,7 @@ x-scheme-handler/spotify=spotify.desktop
 x-scheme-handler/terminal=Alacritty.desktop
 text/x-shellscript=vim.desktop
 text/plain=vim.desktop
+text/x-c=vim.desktop
 
 [Added Associations]
 image/x-canon-cr2=nufraw.desktop
