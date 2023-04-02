@@ -19,6 +19,8 @@ set wildmenu
 set tabstop=4
 set shiftwidth=4
 set expandtab
+set sessionoptions+=cursor
+
 
 " Syntax highlighting and indentation
 syntax on
@@ -48,6 +50,9 @@ source $HOME/.vim/myCodeSnippets/groff.vim
 " ALE settings
 let g:ale_python_flake8_options = '--max-line-length=120'
 
+" YouCompleteMe
+let g:ycm_autoclose_preview_window_after_completion = 1
+
 " Custom mappings
 nnoremap <C-c> "+y
 vnoremap <C-c> "+y
@@ -70,7 +75,13 @@ autocmd BufRead,BufNewFile *.txt,*.tex set wrap linebreak nolist textwidth=0 wra
 " Indent the current C file, compile it, and run it
 autocmd FileType c nnoremap <F4> :w <Bar> !clear && gcc  % -o %< -lm && ./%< <CR>
 autocmd Filetype fortran nnoremap <F4> :w <Bar> !clear && gfortran % -o%< && ./%< <CR>
-autocmd Filetype python nnoremap <F4> :w <Bar> !clear && python %< <CR>
+autocmd Filetype python nnoremap <F4> :w <Bar> !clear && python "%" <CR>
 " Automatically recompile LaTeX file when saving
 autocmd BufWritePost *.tex !pdflatex --shell-escape %
+
+" Return to last edit position when opening files (You want this!)
+autocmd BufReadPost *
+     \ if line("'\"") > 0 && line("'\"") <= line("$") |
+     \   exe "normal! g`\"" |
+     \ endif
 
