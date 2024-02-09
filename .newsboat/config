@@ -1,0 +1,23 @@
+auto-reload yes
+reload-threads 10
+macro o set browser "$BROWSER"; open-in-browser ; set browser "~/bin/urlhandler.sh %u"
+browser "echo %u | xclip -sel clip && ~/bin/urlhandler.sh %u "
+max-items 50
+confirm-delete-all-articles no
+delete-read-articles-on-quit yes
+display-article-progress yes
+bind-key ^R mark-all-above-as-read
+bind-key o open-in-browser-and-mark-read
+bind-key j down
+bind-key k up
+bind-key j next articlelist
+bind-key k prev articlelist
+bind-key G end
+bind-key g home
+bind-key d pagedown
+bind-key u pageup
+bind-key l open
+bind-key h quit
+ignore-mode "display"
+ignore-article "*" "title =~ \"Apple\""
+
