@@ -1,0 +1,54 @@
+[colors.bright]
+black = "#999793"
+blue = "#8A867B"
+cyan = "#A4A397"
+green = "#777F7F"
+magenta = "#788385"
+red = "#606262"
+white = "#dbd9d2"
+yellow = "#8B615B"
+
+[colors.cursor]
+cursor = "#dbd9d2"
+text = "#0F1418"
+
+[colors.normal]
+black = "#0F1418"
+blue = "#8A867B"
+cyan = "#A4A397"
+green = "#777F7F"
+magenta = "#788385"
+red = "#606262"
+white = "#dbd9d2"
+yellow = "#8B615B"
+
+[colors.primary]
+background = "#0F1418"
+foreground = "#dbd9d2"
+
+[font]
+size = 13
+
+[font.bold]
+family = "Fira Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "Fira Mono"
+style = "Bold Italic"
+
+[font.italic]
+family = "Fira Mono"
+style = "Italic"
+
+[font.normal]
+family = "Fira Mono"
+style = "Regular"
+
+[[keyboard.bindings]]
+action = "SpawnNewInstance"
+key = "Return"
+mods = "Control|Shift"
+
+[window]
+opacity = 0.9
