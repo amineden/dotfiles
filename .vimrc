@@ -1,7 +1,7 @@
 " Plugins management using vim-plug
 call plug#begin('~/.vim/plugged')
 Plug 'dense-analysis/ale'
-Plug 'ycm-core/YouCompleteMe'
+""Plug 'ycm-core/YouCompleteMe'
 Plug 'tmhedberg/SimpylFold'
 call plug#end()
 
@@ -36,11 +36,29 @@ colorscheme tokyonight
 " Clipboard
 set clipboard=unnamedplus
 
-" Auto closing pairs
-inoremap ( ()<Esc>i
-inoremap [ []<Esc>i
-inoremap { {}<Esc>i
-inoremap " ""<Esc>i
+" Toggle auto closing pairs
+let g:auto_close_pairs_enabled = 1
+
+function! ToggleAutoClosePairs()
+    if g:auto_close_pairs_enabled
+        inoremap ( ()<Esc>i
+        inoremap [ []<Esc>i
+        inoremap { {}<Esc>i
+        inoremap " ""<Esc>i
+        let g:auto_close_pairs_enabled = 0
+        echo "Auto closing pairs enabled"
+    else
+        iunmap (
+        iunmap [
+        iunmap {
+        iunmap "
+        let g:auto_close_pairs_enabled = 1
+        echo "Auto closing pairs disabled"
+    endif
+endfunction
+
+" Map F5 to toggle auto closing pairs
+noremap <F5> :call ToggleAutoClosePairs()<CR>
 
 " Snippets
 source $HOME/.vim/myCodeSnippets/latex.vim
@@ -76,6 +94,7 @@ autocmd BufRead,BufNewFile *.txt,*.tex set wrap linebreak nolist textwidth=0 wra
 autocmd FileType c nnoremap <F4> :w <Bar> !clear && gcc  % -o %< -lm && ./%< <CR>
 autocmd Filetype fortran nnoremap <F4> :w <Bar> !clear && gfortran % -o%< && ./%< <CR>
 autocmd Filetype python nnoremap <F4> :w <Bar> !clear && python "%" <CR>
+autocmd Filetype mermaid nnoremap <F4> :w <Bar> !clear && mmdc -i "%" -o %:r.png <CR>
 " Automatically recompile LaTeX file when saving
 autocmd BufWritePost *.tex !pdflatex --shell-escape %
 
@@ -84,4 +103,22 @@ autocmd BufReadPost *
      \ if line("'\"") > 0 && line("'\"") <= line("$") |
      \   exe "normal! g`\"" |
      \ endif
+
+"Toggle YouCompleteMe on and off with F2
+function Toggle_ycm()
+    if g:ycm_show_diagnostics_ui == 0
+        let g:ycm_auto_trigger = 1
+        let g:ycm_show_diagnostics_ui = 1
+        :YcmRestartServer
+        :e
+        :echo "YCM on"
+    elseif g:ycm_show_diagnostics_ui == 1
+        let g:ycm_auto_trigger = 0
+        let g:ycm_show_diagnostics_ui = 0
+        :YcmRestartServer
+        :e
+        :echo "YCM off"
+    endif
+endfunction
+map <F2> :call Toggle_ycm() <CR>
 
