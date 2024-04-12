@@ -91,7 +91,7 @@ autocmd FileType tex nnoremap <F4> :w <Bar> !clear && pdflatex "%" <CR>
 " Set text wrapping and indentation for txt and tex files
 autocmd BufRead,BufNewFile *.txt,*.tex set wrap linebreak nolist textwidth=0 wrapmargin=0
 " Indent the current C file, compile it, and run it
-autocmd FileType c nnoremap <F4> :w <Bar> !clear && gcc  % -o %< -lm && ./%< <CR>
+autocmd FileType c nnoremap <F4> :w <Bar> !clear && gcc % -o %< -lm && ./%< <CR>
 autocmd Filetype fortran nnoremap <F4> :w <Bar> !clear && gfortran % -o%< && ./%< <CR>
 autocmd Filetype python nnoremap <F4> :w <Bar> !clear && python "%" <CR>
 autocmd Filetype mermaid nnoremap <F4> :w <Bar> !clear && mmdc -i "%" -o %:r.png <CR>

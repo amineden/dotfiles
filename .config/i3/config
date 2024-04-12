@@ -29,7 +29,7 @@ bindsym $mod+Shift+x exec --no-startup-id lock
 bindsym $mod+z exec --no-startup-id wall
 bindsym $mod+Shift+z exec --no-startup-id alacritty -e "lf"
 bindsym $mod+Return  exec --no-startup-id alacritty
-bindsym $mod+Shift+f exec --no-startup-id librewolf
+bindsym $mod+Shift+f exec --no-startup-id chromium
 bindsym $mod+Shift+t exec --no-startup-id thunderbird
 bindsym $mod+Shift+q exec --no-startup-id qbittorrent
 bindsym $mod+Shift+s exec --no-startup-id spotify --force-device-scale-factor=1.3
