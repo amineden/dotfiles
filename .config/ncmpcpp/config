@@ -1,8 +1,8 @@
 #Directories 
 
 ncmpcpp_directory ="/home/amine/.config/ncmpcpp"
-lyrics_directory ="/home/amine/Music/lyrics"
-mpd_music_dir = "/home/amine/Music"
+lyrics_directory ="/home/amine/D/Music/lyrics"
+mpd_music_dir = "/home/amine/D/Music"
 
 #Visualizer Settings
 

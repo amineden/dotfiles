@@ -1,9 +1,9 @@
-sw_volume: 94
+sw_volume: 96
 audio_device_state:1:pulse
 audio_device_state:1:my_fifo
-state: pause
-current: 28
-time: 141.284000
+state: play
+current: 52
+time: 144.067000
 random: 0
 repeat: 0
 single: 0
@@ -12,42 +12,100 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/01. I Can't Remember.mp3
-1:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/02. Sea of Sorrow.mp3
-2:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/03. Social Parasite .mp3
-3:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/04. King of the Kats.mp3
-4:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/05. Suffragette City.mp3
-5:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/06. Queen of the Rodeo.mp3
-6:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/07. Chemical Addiction.mp3
-7:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/08. Killing YourselfAlice In Chains.mp3
-8:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/09. Fairytale Love Story.mp3
-9:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/10. Sunshine.mp3
-10:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/11. We Die Young.mp3
-11:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/12. I Can't Have You Blues.mp3
-12:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/13. Lip Lock Rock.mp3
-13:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/14. Fat Girls.mp3
-14:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/15. Over The Edge.mp3
-15:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/16. Sealed With A Kiss.mp3
-16:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/17. Ya Yeah Ya.mp3
-17:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/18. Glamorous Girls.mp3
-18:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/19. Don't Be Satisfied.mp3
-19:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/20. Hush Hush.mp3
-20:AIC/Alice In Chains/Singles, EP, Demo/1993 - Chained To The Studio (160kbps)/21. Football.mp3
-21:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/01. Distance  Aside Demo.mp3
-22:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/02. Foolish Demo.mp3
-23:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/03. Blue Demo.mp3
-24:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/04. We've Become Demo.mp3
-25:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/05. Look Demo.mp3
-26:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/06. Dirt Demo.mp3
-27:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/07. Junkhead Demo.mp3
-28:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/08. There's No Time Demo.mp3
-29:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/09. Them Bones Demo.mp3
-30:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/10. Would Demo.mp3
-31:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/11. Got Me Wrong Demo.mp3
-32:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/12. Brother Demo.mp3
-33:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/13. Rooster Demo.mp3
-34:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/14. Bleed The Freak Demo.mp3
-35:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/15. We Die Young Demo.mp3
-36:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/16. Sunshine Demo.mp3
-37:AIC/Alice In Chains/Singles, EP, Demo/1992 - Tasty White Powder (Studio Soundboard Recordings) (Demo)/17. The Real Thing Demo.mp3
+0:100 GREATEST GUITAR SOLOS/001 - Led Zeppelin - Jimmy Page - Stairway to Heaven.mp3
+1:100 GREATEST GUITAR SOLOS/002 - Van Halen - Eddie Van Halen - Eruption.mp3
+2:100 GREATEST GUITAR SOLOS/003 - Lynyrd Skynyrd - Collins & Rossington - Freebird.mp3
+3:100 GREATEST GUITAR SOLOS/004 - Pink Floyd - David Gilmour - Comfortably Numb.mp3
+4:100 GREATEST GUITAR SOLOS/005 - Jimi Hendrix - Jimi Hendrix - All Along The Watchtower.mp3
+5:100 GREATEST GUITAR SOLOS/006 - Guns N' Roses - Slash - November Rain.mp3
+6:100 GREATEST GUITAR SOLOS/007 - Metalica - Kirk Hammet - One.mp3
+7:100 GREATEST GUITAR SOLOS/008 - The Eagles - Don Felder & Joe Walsh - Hotel California.mp3
+8:100 GREATEST GUITAR SOLOS/012 - Chuck Berry - Chuck Berry - Johnny B. Goode.mp3
+9:100 GREATEST GUITAR SOLOS/013 - Stevie Ray Vaughan - Stevie Ray Vaughan - Texas Flood.mp3
+10:100 GREATEST GUITAR SOLOS/014 - Derek and the Dominoes - Clapton & Allman  - Layla.mp3
+11:100 GREATEST GUITAR SOLOS/015 - Pantera - Dimebag Darrel - Floods.mp3
+12:100 GREATEST GUITAR SOLOS/016 - Led Zeppelin - Jimmy Page - Heartbreaker.mp3
+13:100 GREATEST GUITAR SOLOS/017 - Eric Johnson - Eric Johnson - Cliffs of Dover.mp3
+14:100 GREATEST GUITAR SOLOS/018 - Jimi Hendrix - Jimi Hendrix - Little Wing.mp3
+15:100 GREATEST GUITAR SOLOS/019 - Deep Purple - Ritchie Blackmore - Highway Star.mp3
+16:100 GREATEST GUITAR SOLOS/020 - Queen - Brian May - Bohemian Rhapsody.mp3
+17:100 GREATEST GUITAR SOLOS/021 - Pink Floyd - David Gilmour - Time.mp3
+18:100 GREATEST GUITAR SOLOS/022 - Dire Straits - Mark Knopfler - Sultans of Swing.mp3
+19:100 GREATEST GUITAR SOLOS/023 - Rage Against The Machine - Tom Morello - Bulls On Parade.mp3
+20:100 GREATEST GUITAR SOLOS/024 - Metallica - Kirk Hammet - Fade To Black.mp3
+21:100 GREATEST GUITAR SOLOS/025 - Jethro Tull - Martin Barre - Aqualung.mp3
+22:100 GREATEST GUITAR SOLOS/026 - Nirvana - Kurt Cobain - Smells Like Teen Spirit.mp3
+23:100 GREATEST GUITAR SOLOS/027 - Stevie Ray Vaughan - Stevie Ray Vaughan - Pride and Joy.mp3
+24:100 GREATEST GUITAR SOLOS/028 - Ozzy Osbourne - Randy Rhoads - Mr. Crowley.mp3
+25:100 GREATEST GUITAR SOLOS/029 - Steve Vai - Steve Vai - For The Love Of God.mp3
+26:100 GREATEST GUITAR SOLOS/030 - Joe Satriani - Joe Satriani - Surfing With The Alien.mp3
+27:100 GREATEST GUITAR SOLOS/031 - Ted Nugent - Ted Nugent - Stranglehold.mp3
+28:100 GREATEST GUITAR SOLOS/032 - Jimi Hendrix - Jimi Hendrix - Machine Gun.mp3
+29:100 GREATEST GUITAR SOLOS/033 - B. B. King - B. B. King - The Thrill is Gone.mp3
+30:100 GREATEST GUITAR SOLOS/034 - Radiohead - Jonny Greenwood - Paranoid Android.mp3
+31:100 GREATEST GUITAR SOLOS/035 - Pantera - Dimebag Darrel - Cemetery Gates.mp3
+32:100 GREATEST GUITAR SOLOS/036 - Yngwie Malmsteen - Yngwie Malmsteen - Black Star.mp3
+33:100 GREATEST GUITAR SOLOS/037 - Guns and Roses - Slash - Sweet Child O' Mine.mp3
+34:100 GREATEST GUITAR SOLOS/038 - Led Zeppelin - Jimmy Page - Whole Lotta Love.mp3
+35:100 GREATEST GUITAR SOLOS/039 - Neil Young - Neil Young - Cortez The Killer.mp3
+36:100 GREATEST GUITAR SOLOS/040 - Steely Dan - Elliot Randall - Reeling In The Years.mp3
+37:100 GREATEST GUITAR SOLOS/041 - Queen - Brian May - Brighton Rock.mp3
+38:100 GREATEST GUITAR SOLOS/042 - Beatles & Eric Clapton - Eric Clapton - While My Guitar Gently Weeps.mp3
+39:100 GREATEST GUITAR SOLOS/043 - ZZ Top - Billy Gibbons - Sharp Dressed Man.mp3
+40:100 GREATEST GUITAR SOLOS/044 - Pearl Jam - Mike McCready - Alive.mp3
+41:100 GREATEST GUITAR SOLOS/045 - The Doors - Robby Krieger - Light My Fire.mp3
+42:100 GREATEST GUITAR SOLOS/046 - Van Halen - Eddie Van Halen - Hot For Teacher.mp3
+43:100 GREATEST GUITAR SOLOS/048 - Rolling Stones - Keith Richards - Sympathy For The Devil.mp3
+44:100 GREATEST GUITAR SOLOS/049 - Santana - Carlos Santana - Europa.mp3
+45:100 GREATEST GUITAR SOLOS/050 - Kiss - Ace Frehley - Shock Me.mp3
+46:100 GREATEST GUITAR SOLOS/051 - Metallica - Kirk Hammet - Master of Puppets.mp3
+47:100 GREATEST GUITAR SOLOS/052 - Jimi Hendrix - Jimi Hendrix - Star Spangled Banner (Live).mp3
+48:100 GREATEST GUITAR SOLOS/053 - Led Zeppelin - Jimmy Page - Since I've been loving you.mp3
+49:100 GREATEST GUITAR SOLOS/054 - Smashing Pumpkins - Billy Corgan-  Geek USA.mp3
+50:100 GREATEST GUITAR SOLOS/055 - Joe Satriani - Joe Satriani - Satch Boogie.mp3
+51:100 GREATEST GUITAR SOLOS/056 - Black Sabbath - Tony Iommi - War Pigs.mp3
+52:100 GREATEST GUITAR SOLOS/057 - Pantera - Dimebag Darrel - Walk.mp3
+53:100 GREATEST GUITAR SOLOS/058 - Eric Clapton - Eric Clapton - Cocaine.mp3
+54:100 GREATEST GUITAR SOLOS/059 - The Kinks - Dave Davies - You Really Got Me.mp3
+55:100 GREATEST GUITAR SOLOS/060 - Frank Zappa - Frank Zappa - Zoot Allures.mp3
+56:100 GREATEST GUITAR SOLOS/061 - Ozzy Osbourne - Zakk Wylde - No More Tears.mp3
+57:100 GREATEST GUITAR SOLOS/062 - Pink Floyd - David Gilmour - Money.mp3
+58:100 GREATEST GUITAR SOLOS/063 - Soundgarden - Kim Thayil - Black Hole Sun.mp3
+59:100 GREATEST GUITAR SOLOS/064 - Prince - Prince - Little Red Corvette.mp3
+60:100 GREATEST GUITAR SOLOS/065 - Nirvana - Kurt Cobain - In Bloom.mp3
+61:100 GREATEST GUITAR SOLOS/066 - Allman Brothers Band - Allman & Betts - Blue Sky.mp3
+62:100 GREATEST GUITAR SOLOS/067 - Michael Jackson - Eddie Van Halen - Beat It.mp3
+63:100 GREATEST GUITAR SOLOS/068. Yes - Steve Howe - Starship Trooper.mp3
+64:100 GREATEST GUITAR SOLOS/069 - The Beatles - George Harrison - And Your Bird Can Sing.mp3
+65:100 GREATEST GUITAR SOLOS/070 - Jimi Hendrix - Jimi Hendrix Purple Haze.mp3
+66:100 GREATEST GUITAR SOLOS/071 - Funkadelic - Eddie Hazel - Maggot Brain.mp3
+67:100 GREATEST GUITAR SOLOS/072 - Aerosmith - Joe Perry - Walk This Way.mp3
+68:100 GREATEST GUITAR SOLOS/073 - Phish - Trey Anastasio - Stash.mp3
+69:100 GREATEST GUITAR SOLOS/074 - Deep Purple - Ritchie Blackmore - Lazy.mp3
+70:100 GREATEST GUITAR SOLOS/075 - The Who - Pete Townsend - Won't Get Fooled Again.mp3
+71:100 GREATEST GUITAR SOLOS/076 - Neil Young and Crazy Horse - Neil Young - Cinnamon Girl.mp3
+72:100 GREATEST GUITAR SOLOS/077 - Alice In Chains - Jerry Cantrell - Man In The Box.mp3
+73:100 GREATEST GUITAR SOLOS/078 - Grateful Dead - Jerry Garcia - Truckin'.mp3
+74:100 GREATEST GUITAR SOLOS/079 - Van Halen - Eddie Van Halen - Mean Streets.mp3
+75:100 GREATEST GUITAR SOLOS/080 - ACDC - Angus Young - You Shook Me All Night Long.mp3
+76:100 GREATEST GUITAR SOLOS/081 - Velvet Underground - Hunter & Wagner - Sweet Jane.mp3
+77:100 GREATEST GUITAR SOLOS/082 - King Crimson - Robert Fripp - 21st Century Schizoid Man.mp3
+78:100 GREATEST GUITAR SOLOS/083 - Stevie Ray Vaughan - Stevie Ray Vaughan - Scuttle Buttin'.mp3
+79:100 GREATEST GUITAR SOLOS/084 - Sublime - Brad Nowell - Santeria.mp3
+80:100 GREATEST GUITAR SOLOS/085 - David Bowie - Mick Ronson - Moonage Daydream.mp3
+81:100 GREATEST GUITAR SOLOS/086 - The Allman Brothers Band - Allman & Betts - Whipping Post.mp3
+82:100 GREATEST GUITAR SOLOS/087 - Living Colour - Vernon Reid - Cult Of Personality.mp3
+83:100 GREATEST GUITAR SOLOS/088 - Steely Dan - Larry Carlton - Kid Charlemagne.mp3
+84:100 GREATEST GUITAR SOLOS/089 - Rage Against The Machine - Tom Morello - Killing In the  Name Of.mp3
+85:100 GREATEST GUITAR SOLOS/090 - Eric Clapton - Eric Clapton - Let It Rain.mp3
+86:100 GREATEST GUITAR SOLOS/091 - CCR - John Fogerty - I Heard It Through the Grapevine.mp3
+87:100 GREATEST GUITAR SOLOS/092 - Stray Cats - Brian Setzer - Stray Cat Strut.mp3
+88:100 GREATEST GUITAR SOLOS/093 - The Doors - Robbie Krieger - The End.mp3
+89:100 GREATEST GUITAR SOLOS/094 - Rush - Alex Lifeson - Working Man.mp3
+90:100 GREATEST GUITAR SOLOS/095 - Pearl Jam - Mike McCready - Yellow Leadbetter.mp3
+91:100 GREATEST GUITAR SOLOS/096 - Rolling Stones - Keith Richards - Honky Tonk Women.mp3
+92:100 GREATEST GUITAR SOLOS/097 - Smashing Pumpkins - Billy Corgan - Cherub Rock.mp3
+93:100 GREATEST GUITAR SOLOS/098 - Dream Theater - John Petrucci - Under A Glass Moon.mp3
+94:100 GREATEST GUITAR SOLOS/099 - Jeff Beck - Jeff Beck - 'Cause We've Ended as Lovers.mp3
+95:100 GREATEST GUITAR SOLOS/100 - Jane's Addiction - Dave Navarro - Three Days.mp3
 playlist_end

@@ -1,5 +1,5 @@
-"query:Articles:unread = \"yes\" and tags !# \"Youtube\" and tags !#\"reddit\"
-#"query:Reddit:unread = \"yes\" and tags #\"reddit\"
+#query:Articles:unread = \"yes\" and tags !# \"Youtube\" and tags !#\"reddit\""
+"query:Reddit:unread = \"yes\" and tags #\"reddit\""
 "query:Videos:unread =\"yes\" and tags # \"Youtube\""
 "query:Linux Videos:unread =\"yes\" and tags # \"Linux-Video\""
 https://interestingengineering.com/feed  "Education"
@@ -311,4 +311,4 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCzWQYUVCpZqtN93H8RR44Qw "Yo
 #https://www.reddit.com/r/awweducational/.rss "reddit"
 #https://www.reddit.com/r/creepywikipedia/.rss "reddit"
 #https://www.reddit.com/r/everymanshouldknow/.rss "reddit"
-#https://www.reddit.com/r/piracy/.rss "reddit"
+https://www.reddit.com/r/piracy/.rss "reddit"
